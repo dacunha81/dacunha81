@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dacunha81
 - 👀 I’m interested in QA Software Testing
-- 🌱 I’m currently learning how to code
+- 🌱 I’m also learning some code
 - 💞️ I’m looking to collaborate on some Software testing
 - 📫 How to reach me www.linkedin.com/in/diogo-cunha-3b993883/
 
